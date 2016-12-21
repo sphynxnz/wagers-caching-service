@@ -1,6 +1,6 @@
 {
   "name": "wagers-caching-service",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "wagers caching service",
   "main": "index.js",
   "scripts": {
